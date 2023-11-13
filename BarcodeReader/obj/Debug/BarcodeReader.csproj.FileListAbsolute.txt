@@ -1,0 +1,43 @@
+D:\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe.config
+D:\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe
+D:\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.pdb
+D:\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\InTheHand.Net.Personal.dll
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form1.resources
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form2.resources
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form3.resources
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form4.resources
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Properties.Resources.resources
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.GenerateResource.Cache
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.CoreCompileInputs.cache
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.exe
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.pdb
+D:\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe.config
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.pdb
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.ActivateForm.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form1.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form2.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form3.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form4.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Properties.Resources.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.GenerateResource.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.CopyComplete
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.exe
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.pdb
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csprojAssemblyReference.cache
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe.config
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.pdb
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.ActivateForm.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form1.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form2.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form3.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form4.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Properties.Resources.resources
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.GenerateResource.Cache
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.exe
+C:\Users\MK\Documents\VS2017Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.pdb

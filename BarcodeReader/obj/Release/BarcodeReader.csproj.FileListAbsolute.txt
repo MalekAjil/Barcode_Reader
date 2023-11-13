@@ -1,0 +1,14 @@
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Release\BarcodeReader.exe.config
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Release\BarcodeReader.exe
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\bin\Release\BarcodeReader.pdb
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.csprojAssemblyReference.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.ActivateForm.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.Form1.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.Form2.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.Form3.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.Form4.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.Properties.Resources.resources
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.csproj.GenerateResource.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.exe
+C:\Projects\Barcode Reader\Barcode Reader\BarcodeReader\BarcodeReader\obj\Release\BarcodeReader.pdb
